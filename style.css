@@ -1,0 +1,31 @@
+body{
+    background-color: azure;
+}
+
+.container {
+    background-color: white;
+    width: 35%;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 30px 30px 30px;
+    box-shadow: 3px 3px 17px 0px black;
+}
+
+.titulo{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.genero{
+    font-size: large;
+    font-weight: bold;
+    color: aquamarine;
+    margin-top: 0px;
+}
+
+.sinopse {
+    height: 125px;
+}
